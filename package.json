@@ -4,6 +4,15 @@
   "description": "A GitHub template repository for VitePress websites.",
   "private": true,
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CrazyOrr/vitepress-template.git"
+  },
+  "keywords": [
+    "vitepress"
+  ],
+  "author": "Lei Wang",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vitepress dev",
@@ -12,11 +21,6 @@
     "spelling": "cspell \"**\"",
     "format": "prettier --write ."
   },
-  "keywords": [
-    "vitepress"
-  ],
-  "author": "CrazyOrr",
-  "license": "MIT",
   "devDependencies": {
     "cspell": "^8.8.4",
     "eslint": "^9.4.0",

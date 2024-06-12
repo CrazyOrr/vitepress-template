@@ -13,3 +13,11 @@ A [GitHub template repository](https://docs.github.com/en/repositories/creating-
 - [x] [CSpell](https://cspell.org/)
 - [x] [Sitemap Generation](https://vitepress.dev/guide/sitemap-generation)
 - [x] [HTTP Cache Headers](https://vitepress.dev/guide/deploy#http-cache-headers) config for [Netlify](https://www.netlify.com/)
+
+## Getting Started
+
+See "[Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)" from GitHub.
+
+## License
+
+This project is licensed under the terms of the [MIT](LICENSE) license.
