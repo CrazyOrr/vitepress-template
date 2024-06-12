@@ -1,0 +1,27 @@
+{
+  "name": "vitepress-template",
+  "version": "1.0.0",
+  "description": "A GitHub template repository for VitePress websites.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "spelling": "cspell \"**\"",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "vitepress"
+  ],
+  "author": "CrazyOrr",
+  "license": "MIT",
+  "devDependencies": {
+    "cspell": "^8.8.4",
+    "eslint": "^9.4.0",
+    "eslint-plugin-vue": "^9.26.0",
+    "prettier": "^3.3.1",
+    "vitepress": "^1.2.3"
+  }
+}
