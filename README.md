@@ -23,7 +23,7 @@ See "[Creating a repository from a template](https://docs.github.com/en/reposito
 When you use this template, update the following:
 
 - Remove `.git` directory and run `git init` to clean up the history
-- Change the info in `config.mts`
+- Change the info in `.vitepress/config.mts`
 - Change the info in `package.json` and remove `package-lock.json` then run `npm install` to regenerate it
 - Change the author name in `LICENSE` or change the whole `LICENSE`
 - Clean up the `README`
